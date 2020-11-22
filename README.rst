@@ -1,11 +1,11 @@
 Content
 ==========
 
-Simple ShoppingCart Examples with printing a invoice,
+Simple ShoppingCart Examples with printing an invoice,
 two implementations:
 
-* Folder proc: Procedural programming: Example with setter and getter.
-* Folder oop: Object oriented programming: using printer pattern follwing the below articles.
+* Folder proc --> Procedural programming: example with setter and getter.
+* Folder oop  --> Object oriented programming: using printer pattern follwing the below articles.
   
 Articles
 =========
