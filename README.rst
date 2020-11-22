@@ -1,7 +1,7 @@
 Content
 ==========
 
-Simple ShoppingCart Examples with printing a invoide,
+Simple ShoppingCart Examples with printing a invoice,
 two implementations:
 
 * Folder proc: Procedural programming: Example with setter and getter (most people think they do oop).
