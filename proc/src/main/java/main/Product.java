@@ -4,19 +4,18 @@ public class Product
 {
    private String title;
    private String isbn;
+   private Price price;
 
-   private Double price;
-
-   public Product(String title, String isbn, double d)
+   public Product(String title, String isbn, Price price)
    {
       this.title = title;
       this.isbn = isbn;
-      this.price = d;
+      this.price = price;
    }
 
    public double getPrice()
    {
-      return price;
+      return price.getValue();
    }
 
    public String getTitle()
