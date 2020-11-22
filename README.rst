@@ -1,0 +1,14 @@
+Content
+==========
+
+Simple ShoppingCart Examples with printing a invoide,
+two implementations:
+
+* Folder proc: Procedural programming: Example with setter and getter (most people think they do oop).
+* Folder oop: Object oriented programming: using printer pattern follwing the below articles.
+  
+Articles
+=========
+
+* https://www.infoworld.com/article/2073723/why-getter-and-setter-methods-are-evil.html
+* https://www.yegor256.com/2016/04/05/printers-instead-of-getters.html
