@@ -4,7 +4,7 @@ Content
 Simple ShoppingCart Examples with printing a invoice,
 two implementations:
 
-* Folder proc: Procedural programming: Example with setter and getter (most people think they do oop).
+* Folder proc: Procedural programming: Example with setter and getter.
 * Folder oop: Object oriented programming: using printer pattern follwing the below articles.
   
 Articles
